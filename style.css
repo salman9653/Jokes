@@ -5,6 +5,8 @@
 }
 body {
   background-image: url(./2021246.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .container {
   padding: 30px;
